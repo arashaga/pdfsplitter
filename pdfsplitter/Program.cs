@@ -11,8 +11,8 @@ namespace example_split_pdf_dotnet
     {
         static void Main(string[] args)
         {
-            string pdfFilePath = @"C:\Users\armoshar.NORTHAMERICA\OneDrive - Microsoft\Projects\C#\pdfsplitter\pdfsplitter\Resources\test.pdf";
-            string outputPath = @"C:\Users\armoshar.NORTHAMERICA\OneDrive - Microsoft\Projects\C#\pdfsplitter\pdfsplitter\Resources";
+            string pdfFilePath = @"PATH TO YOUR FILE";
+            string outputPath = @"PATH TO YOUR OUTPUT FILES";
             int interval = 10;
             int pageNameSuffix = 0;
 
